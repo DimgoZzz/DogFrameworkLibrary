@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Private\DogFramework.cpp">
+    <ClCompile Include="Source\DogFramework.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

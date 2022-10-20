@@ -78,12 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Private\DogFramework.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DogStandardLibrary\DogStandardLibrary.vcxproj">
-      <Project>{e3b1ff4a-d8f5-4823-9968-7a3850e6d023}</Project>
-    </ProjectReference>
+    <ClCompile Include="Source\DogFramework.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
