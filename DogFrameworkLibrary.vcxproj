@@ -16,7 +16,7 @@
     <ProjectGuid>{d2c03df7-55dd-463f-8318-0d2408c5d69e}</ProjectGuid>
     <RootNamespace>DogFramework</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>DogFramework</ProjectName>
+    <ProjectName>DogFrameworkLibrary</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
